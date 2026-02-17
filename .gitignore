@@ -1,0 +1,20 @@
+# Security
+.env
+
+# Virtual Environment
+venv/
+env/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+
+# Large Raw Data
+movies_metadata.csv
+
+# OS Specific
+.DS_Store
+Thumbs.db
+
+# VS Code Settings
+.vscode/
